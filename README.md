@@ -23,3 +23,16 @@ The requirement of the libraries are:-
 6-> urlextract
 
 7-> wordcloud
+
+To run the app, run the following code in the app.py file->
+streamlit run app.py
+
+
+I have made 3 files- app.py, helper.py, preprocessor.py.
+
+-> app.py -> This contains the main codes for the entire analysis in our project.
+
+-> helper.py -> This contains all the functions defined for running our project.
+
+-> preprocessor.py -> This contains the main structure of the website as it forms the basic format of our DataFrame. 
+
