@@ -36,3 +36,5 @@ I have made 3 files- app.py, helper.py, preprocessor.py.
 
 -> preprocessor.py -> This contains the main structure of the website as it forms the basic format of our DataFrame. 
 
+Also, I have uploaded one file in the repository with the name - stop_hinglish.txt. This file contains the stop words that we want to remove from our whatsapp chat for better analysis. We can also add more words to it.
+
