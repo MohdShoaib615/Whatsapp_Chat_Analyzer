@@ -9,6 +9,7 @@ This can analyze our whatsapp chat on individual basis and group chat basis both
 Make sure while exporting the chats using whatsapp, the time-format should be 24 Hours.
 
 The requirement of the libraries are:-
+
 1-> streamlit
 
 2-> pandas
