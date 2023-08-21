@@ -10,9 +10,15 @@ Make sure while exporting the chats using whatsapp, the time-format should be 24
 
 The requirement of the libraries are:-
 1-> streamlit
+
 2-> pandas
+
 3-> emoji
+
 4-> matplotlib
+
 5-> seaborn
+
 6-> urlextract
+
 7-> wordcloud
